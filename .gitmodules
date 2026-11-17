@@ -19,3 +19,6 @@
 [submodule "z_legacy"]
 	path = z_legacy
 	url = https://github.com/roanjtaylor/z_legacy.git
+[submodule "AirPower"]
+	path = AirPower
+	url = https://github.com/roanjtaylor/AirPower.git
